@@ -1,4 +1,4 @@
-Readme
+My final term project for 15-112, Fundamentals of Programming and Computer Science.
 
 Project Name:
 MINESWEEPER TEACHER
